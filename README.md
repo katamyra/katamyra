@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Krish Katariya and I am a CS student @ Georgia Tech. 
 
-I am interested in developing full stack applications and in applying machine learning models to real-world applications.
+I am interested in developing **full stack applications** and in applying **machine learning models** to real-world applications.
 
 Currently, I'm learning how to develop full stack applications mostly by learning how to use Nextjs. I am also learning more of the theory behind most machine learning models. Here you can find some of my projects and class notes.
 
