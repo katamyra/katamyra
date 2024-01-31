@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Krish Katariya and I am a CS student @ Georgia Tech. I am interested in developing full stack applications and in applying machine learning models to real-world applications.
 
 <!--
 **katamyra/katamyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
